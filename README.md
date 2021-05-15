@@ -1,0 +1,1 @@
+# M-dia-de-valores-contido-a-lista-porem-precisa-tirar-a-string-para-resolver.py
